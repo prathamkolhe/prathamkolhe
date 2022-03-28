@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Prathamesh kolhe
-- 👀 I’m interested in making Apps
-- 🌱 I’m currently learning Flutter & Web Developement
-- 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me? pratham2002522@gmail.com
-
-<!---
-prathamkolhe/prathamkolhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Prathamesh👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamkolhe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamkolhe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
